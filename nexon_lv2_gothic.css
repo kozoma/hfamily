@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'NEXON Lv2 Gothic';
+    font-weight: 100;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Light.woff') format('woff');
+    font-display: swap;
+} 
+@font-face {
+    font-family: 'NEXON Lv2 Gothic';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NEXON Lv2 Gothic';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Medium.woff') format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NEXON Lv2 Gothic';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF Bold.woff') format('woff');
+    font-display: swap;
+}
