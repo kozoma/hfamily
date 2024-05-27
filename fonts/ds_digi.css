@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'DIGI CLOCK';
-    font-weight: 700;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/ds_digi/DigitalDisplayRegular-ODEO.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/ds_digi/DigitalDisplayRegular-ODEO.woff') format('woff');
-    font-display: swap;
-}
