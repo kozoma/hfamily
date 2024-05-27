@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DIGI CLOCK';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/kozoma/hfamily/NexonLv2Gothic/NEXON Lv2 Gothic OTF.woff') format('woff');
+    font-display: swap;
+}
